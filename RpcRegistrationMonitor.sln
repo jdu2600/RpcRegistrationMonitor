@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RpcRegistrationMonitor", "RpcRegistrationMonitor.csproj", "{CD8458A2-6C54-4632-82EA-1A6508CBF264}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD8458A2-6C54-4632-82EA-1A6508CBF264}.Debug|x64.ActiveCfg = Debug|x64
+		{CD8458A2-6C54-4632-82EA-1A6508CBF264}.Debug|x64.Build.0 = Debug|x64
+		{CD8458A2-6C54-4632-82EA-1A6508CBF264}.Release|x64.ActiveCfg = Release|x64
+		{CD8458A2-6C54-4632-82EA-1A6508CBF264}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {017E20F2-B5C8-46C6-922A-079D188E1303}
+	EndGlobalSection
+EndGlobal
